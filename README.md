@@ -1,4 +1,5 @@
 ### Hi there 👋
+##Estudiante de IMF, 2022-2024
 ![logo](https://github.com/JoseVera12/JoseVera12/blob/main/assets/imf.jpg?raw=true)
 <!--
 **JoseVera12/JoseVera12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
